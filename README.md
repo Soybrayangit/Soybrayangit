@@ -3,7 +3,7 @@
 
 <a href="https://www.tiktok.com/@brxyan_23" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@brxyan_23"/></a>
 
-<a href="https://www.instagram.com/tnlg.brayan/" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tnlg.brayan"/></a>
+<a href="https://www.instagram.com/tnlg.brayan/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tnlg.brayan"/></a>
 
 
 <br>
