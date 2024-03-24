@@ -11,9 +11,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 TECNOLOGO EN DESARROLLO DE SOFTWARE
+🎓 TECNÓLOGO EN DESARROLLO DE SOFTWARE
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 cada dia adquiriendo más experiencia en el proceso de desarrollo de software (solo voy a decir más de 18 para no deschavar mi edad 🙈)
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador front-end... y en un futuro quién sabe ☺️
 
