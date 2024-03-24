@@ -25,11 +25,11 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías y herramientas conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,dotnet,css,html,js,nodejs,mysql,sqlite,git,github,vscode,line=12" />
+    <img src="https://skillicons.dev/icons?i=,dotnet,html,css,js,nodejs,mysql,sqlite,git,github,vscode,line=12" />
   </a>
 </p>
 <br>
